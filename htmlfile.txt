@@ -1,0 +1,598 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Dimension by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						
+						<div class="content">
+							<div class="inner">
+								<h4>Hello, World! </h4>
+								<h1>I'm Samiksha Kolhe👩‍💻 </h1>
+								<p>I'm a <b>Fresher</b> currently based in Nashik/India. <br>Passionate about leveraging <b>Data Science</b> and <b>Machine Learning</b> to build <br> products & services which help solve real-world business problems.<br> I'm Like a gradient descent striving hard to reach my goal <br> with backpropagating my skills every day:)<br />
+								</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">About</a></li>
+								<li><a href="#work">Training&Internship</a></li>
+								<li><a href="#about">Projects</a></li>
+								<li><a href="#certifications">Certifications</a></li>
+								<!-- <li><a href="#accomplishments">Accomplishments</a></li> -->
+								<!-- <li><a href="#contact">Contact</a></li> -->
+								<li><a href="https://drive.google.com/file/d/1guwRi8vkrJ7DRjQf8htwLUO20TKKWSoT/view?usp=sharing">Resume</a></li>
+								<!-- <li><a href="https://drive.google.com/file/d/1guwRi8vkrJ7DRjQf8htwLUO20TKKWSoT/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>		 -->
+								<!-- <li><a href="https://drive.google.com/file/d/1guwRi8vkrJ7DRjQf8htwLUO20TKKWSoT/view?usp=sharing" class="button icon solid fa-download" attributes-list download ="Samiksha Kolhe - Resume" >Resume</a></li>					 -->
+							</ul>
+						</nav>
+					</header>
+					<br><br><br>
+					<div>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/samiksha-kolhe25701/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/kolhesamiksha/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://medium.com/@kolhesamiksha25" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+						</ul>
+					</div>
+					
+					
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">About Me</h2>
+								<span class="image main"><img src="images/Profile Picture.jpg" width="200" 
+     height="500" alt="" /></span>
+								<p>I am Samiksha Kolhe 2023 grad studying B.tech at GCEkarad, a Mathnut from childhood attracted by technology and immense interest in Data Science have practical experience around <b>Machine Learning</b>, <b>Natural Language Processing</b>, <b>Deep Learning</b>, <b>Predictive Modeling</b>. <br><br>
+									
+									Passionate about leveraging data science and ML to build products & services which help solve real-world business problems. Motivated to learn, grow and excel in Artificial Intelligence Industry. 
+									Every Day upskilling myself and moving towards becoming Full Stack Data Scientist. getting hands dirty on <b>Pyspark</b>, <b>Docker</b>, <b>React</b>, <b>flask</b>, <b>Mlops</b> and <b>AWS</b> to built full-fledge data science tasks.<br><br> 
+									Presently seeking for Data Scientist and Machine Learning role with long-term goal of being meaningful contributor to an organization. I'm ambitious,hard working and Curious girl and i'm confident enough to bring extraordinary outcomes on the table <br><br>
+									
+									</p>
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Training and Internship</h2>
+								<br>
+								<h3 class="major">1729 You and AI</h3>
+								<span class="image main"><img src="images/1720youandai.jpg" alt="" /></span>
+								<p>It was a Professional hands-on Workshop held Virtually by Top Data Scientists in India organised by <b>Fractal Analytics</b> and <b>Analytics Vidhya</b>
+                                                                   Learned the ethics and current demands of Data Industry along with Top-notch projects. Buisness Driven Data Solutions approach and how to provide the efficient solutions were discussed by experienced Data Scientists
+                                                                   The tools and techniques that i learned during the workshop are:<br>
+									<br>
+									1. Hands-on with Low Code Machine Learning using Pycaret.<br>
+                                                                        2. Overview of Building Data Pipeline on AWS using Python and SQL.<br>
+                                                                        3. Hands-on intro to Time-Series Forecasting, Anomaly detection and Recommendation Systems.<br>
+                                                                        4. Built Data Pipeline using Apache Spark.<br>
+                                                                        5. Deploying Models in Production and model maintenance(MLOPS).<br>
+									<br>
+								</p>
+
+								<br>
+								<br>
+
+								<h3 class="major">Devtown</h3>
+								<span class="image main"><img src="images/devtown.jfif" alt="" /></span>
+								<p>It was 2 month Training and 1 month internship in which i worked on 15+ datasets so as to get hands-on with data science tasks and learn the tools/ethics of data science.<br>   
+									Learnings: <b>Statistics</b>,<b>Probability</b>,<b>Data Wrangling</b>,<b>Data Visualization</b>,<b>Data Modelling</b>,<b>Hypothesis Testing</b>,<b>Deep Learning</b>,<b>NLP</b> etc.<br>
+                                                                        Some of my kick starting projects which made me stand out of the crowd to get an LOR from Devtown during the tenure of internship are as follows.
+									<br><br>
+									• Created backend Xgboost Advance fintech ML model to Forebode Bank Loan, concluded Income & CreditHistory as salient features by RF model frontend using Streamlit module. deployment using Git over Heroku.
+									<br><br>
+									• Created a backend of hybrid (GRU + neural network) approach model with improved accuracy for Text Classification of Airline Customers over Twitte, frontend using Streamlit. deployed over Heroku.
+									<br><br>
+									•  Best Data Science youtube channel analysis. scrape data using Youtube API auth by Google cloud. topic modeling for winner youtube channel 3B1B using BERT.
+									<br><br>
+								</p>
+                                                                
+                                                                <br>
+                                                                <br>
+
+                                                                <h3 class="major">Virtual Internships</h3>
+
+                                                            
+                                                                <h3 class="major">Accenture</h3>
+								<span class="image main"><img src="images/Accenture.jfif" alt="" /></span>
+								<p>It was a Virtual Data Analytics Task by Accenture on Forage Platform. it was a great learning experience <b> created a Dashboard on Microsoft Excel</b> for an Example Case Client Social Buzz(Content creator). <br> Social Buzz is a fast growing technology & content creator unicorn that need to adapt quickly to it's global scale. To cope up with the fast growing client problem of social buzz, they need to built the stratergy to overcome these problems & to get to know their clients in more detail. Task was given to analyze the dataset and draw some conclusions to increase the marketting of Social Buzz and improving their clients experience to their website/platform.<br> 
+								<br><br>
+				
+                                                                </p>
+
+                                                                <h3 class="major">pWc</h3>
+								<span class="image main"><img src="images/pwc.jfif" alt="" /></span>
+								<p>It was a Virtual Data Analytics Task by pWc on Foarge Platform wherein i got an experience on working over <b>PowerBi</b>. Created a Dashboard for an Example Case Client Phone-now(Telecome industry). They defined some KPI's, I analysed their customer retention problem and tried to formulate a solution to minimize their churn rate. 
+									<br><br>
+									
+                                                                </p>
+                                                   
+							</article>
+
+						<!-- About -->
+							<article id="about">
+								<h2 class="major">Projects</h2>
+								<span class="image main"><img src="images/Projects.jpg" alt="" /></span>
+								<p>I worked on various real world projects ranging from classic Machine Learning to Deep Learning including applications for Natural Language Processing and Computer Vision.</p>
+								<br><br>
+
+								<h4 class="major">Project 1: Dead Stars Classification Application</h4>
+								<span class="image main"><img src="images/Space_obclassi.JPG" alt="" /></span>
+								<p>Identify DeadStars is a Transfer-learning based application built using streamlit. the application is able toclassify dead stars mainly Pulsar Star, Black holes, and White Dwarf with an accuracy of up to 95%.created docker image for the application front_end and deployed over Amazon EC-2.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/SpaceObjectClassifier" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 2: Hello.ai</h4>
+								<span class="image main"><img src="images/Chatbot.jfif" alt="" /></span>
+								<p>Created Autoencoder-based Conversational-AI driven NLP chatbot. worked over 0.3MB of Text Data,Built basic units of Autoencoders from Scratch from architecture to Workflow using Tensorflow.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/Hello_Bot.ai" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 3: Hypothesize churn Of Gas&Electricity customers</h4>
+								<span class="image main"><img src="images/churn.jfif" alt="" /></span>
+								<p>created an RF model for KPIs defined by utility client Powerco i.e. (20% discount affects the churn)</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/BCG-gamma_Data-Science_Virtual_Task" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 4: Breast Cancer Prediction using Pyspark</h4>
+								<span class="image main"><img src="images/Pyspark.jfif" alt="" /></span>
+								<p>Created a Breast cancer Prediction ML model to hypothesize the patient's condition(will Alive/Dead) using <b>Pyspark on Databricks</b></p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/Breast_Cancer_Detection_Pyspark" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 5: Best Data Science Youtube Channel-2022</h4>
+								<span class="image main"><img src="images/youtube.jfif" alt="" /></span>
+								<p>Best Data Science youtube channel analysis. scrape data using Youtube API auth by Google cloud. topic modeling for winner youtube channel 3B1B using BERT.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/web_scrapping_API" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 6: Text Classification on Airline Customer reviews</h4>
+								<span class="image main"><img src="images/Text_classification.JPG" alt="" /></span>
+								<p>Created a backend of hybrid (GRU + neural network) approach model with improved accuracy for Text Classification of Airline Customers over Twitter, frontend using Streamlit. deployed over Heroku.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/NLP" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+                                                                        <li><a href="https://airline-sentiment-sam-app.herokuapp.com/" class="fa fa-link"></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 7: Forecast Bank Loan Application</h4>
+								<span class="image main"><img src="images/Bank_loan.JPG" alt="" /></span>
+								<p>Created backend Xgboost Advance fintech ML model to Forebode Bank Loan, concluded Income & Credit History as salient features by RF model frontend using Streamlit module. deployment using Git over Heroku.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/kolhesamiksha/Loan-prediction" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+                                                                        <li><a href="https://loan-prediction-myapp.herokuapp.com/" class="fa fa-link"></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major"> Medium Articles </h4>
+								<span class="image main"><img src="images/medium.jfif" alt="" /></span>
+								<p>I used to write medium articles for Data Science and Machine Learning.</p>
+								<ul class="icons">
+									<li><a href="https://medium.com/@kolhesamiksha25" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+								</ul>
+								<br><br>
+
+
+
+							</article>
+
+							<article id="certifications">
+								<h2 class="major">Certifications</h2>
+								<br>
+								<h3 class="major">AWS INNOVATE AI & ML EDITION</h3>
+								<span class="image main"><img src="images/AWS Innovate AL & ML Edition.jpeg" alt="" /></span>
+								<br>
+								<br>
+
+                                                                <h3 class="major">Smartknower: AI Internship</h3>
+								<span class="image main"><img src="images/AI -Smartknower certificate.jpg" alt="" /></span>
+								<br>
+								<br>
+
+                                                                <h3 class="major">Accenture:Data Analytics Virtual Internship</h3>
+								<span class="image main"><img src="images/Accenture_Data_Analytics.jpg" alt="" /></span>
+								<br>
+								<br>
+
+                                                                
+								<br>
+								<h3 class="major">Devtown:Top 10 Learner</h3>
+								<span class="image main"><img src="images/LOR_devtown.jpg" alt="" /></span>
+								<br>
+								<br>
+                                                                
+
+								<h3 class="major">AWS:AWS Machine Learning</h3>
+								<span class="image main"><img src="images/aws_machine_learning.jpeg" alt="" /></span>
+								<br>
+								<br>
+
+								<br>
+								<h3 class="major">AWS:Data Analytics on AWS</h3>
+								<span class="image main"><img src="images/Data Analytics on aws.jpg" alt="" /></span>
+								<br>
+								<br>
+
+                                                                <br>
+								<h3 class="major">Linkedin Learning:Excel</h3>
+								<span class="image main"><img src="images/Excel LinkedIn Learning Certificate.jpg" alt="" /></span>
+								<br>
+								<br>
+             
+                                                                <h3 class="major">DeepLearning.AI Certifications</h3>                                                  
+        
+								<br>
+								<h3 class="major">Hyperparameter Tuning in Tensorflow</h3>
+								<span class="image main"><img src="images/hyper_p_tuning.jpg" alt="" /></span>
+								<br>
+								<br>
+
+								
+								<br>
+								<h3 class="major">Introduction to Tensorflow for AI/ML/DL</h3>
+								<span class="image main"><img src="images/Intro to Tensorflow.jpg" alt="" /></span>
+								<br>
+								<br>
+
+
+								<br>
+								<h3 class="major">CNN in Tensorflow</h3>
+								<span class="image main"><img src="images/CNN in tf.jpg" alt="" /></span>
+								<br>
+								<br>
+
+
+								<br>
+								<h3 class="major">SQL For Data Science</h3>
+								<span class="image main"><img src="images/Sql certificate.jpg" alt="" /></span>
+								<br>
+								<br>
+
+			
+
+
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="https://www.linkedin.com/in/priyeshdave21/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/PriyeshDave/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://twitter.com/PriyeshDave6" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+								</ul>
+							</article>
+
+							<!-- Accomplishments -->
+							<article id="accomplishments">
+								<h2 class="major">Accomplishments</h2>
+								<span class="image main"><img src="images/Achievements.jpg" alt="" /></span>
+									• Recognized and appreciated for delivering efficient solutions and awarded by <b>Performing Award</b> by <a class = "major" href ="https://www.westpac.com.au/"><b>Westpac</b></a>.
+								
+									<br><br>
+									•  Selected in top 300 among 15,000 applicants for Bertelsmann Technology UDACITY MACHINE LEARNING SCHOLARSHIP across
+									world, and learnt Machine Learning.									 
+							</article>
+
+							<!-- Resume -->
+							<article id="resume">
+								<ul class="actions">
+									<li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>
+								</ul>								 
+							</article>
+
+							
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+										<i class="fa fa-link" aria-hidden="true"></i>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
