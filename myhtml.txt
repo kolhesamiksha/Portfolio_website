@@ -1,0 +1,576 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Dimension by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						
+						<div class="content">
+							<div class="inner">
+								<h4>Hello, World! </h4>
+								<h1>I'm Priyesh Dave </h1>
+								<p>I'm a <b>Data Scientist</b> currently based in Indore/Mumbai. <br>Passionate about leveraging <b>Data Science</b> and <b>Machine Learning</b> to build <br> products & services which help solve real-world business problems.<br />
+								</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">About</a></li>
+								<li><a href="#work">Experience</a></li>
+								<li><a href="#about">Projects</a></li>
+								<li><a href="#certifications">Certifications</a></li>
+								<!-- <li><a href="#accomplishments">Accomplishments</a></li> -->
+								<!-- <li><a href="#contact">Contact</a></li> -->
+								<li><a href="https://drive.google.com/file/d/1OwsJWGasuJnMVg4NS09bhn8el5fgD7ZR/view?usp=sharing">Resume</a></li>
+								<!-- <li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>		 -->
+								<!-- <li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button icon solid fa-download" attributes-list download ="Priyesh Dave - Resume" >Resume</a></li>					 -->
+							</ul>
+						</nav>
+					</header>
+					<br><br><br>
+					<div>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/priyeshdave21/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/PriyeshDave/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://twitter.com/PriyeshDave6" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						</ul>
+					</div>
+					
+					
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">About Me</h2>
+								<span class="image main"><img src="images/Profile Picture.jpg" alt="" /></span>
+								<p>I am Priyesh Dave, Data science professional with 3.8 years of experience around <b>Machine Learning</b>, <b>Natural Language Processing</b>, <b>Deep Learning</b>, <b>Predictive Modeling</b>, and <b>Statistical Analysis</b>. <br><br>
+									
+									Passionate about leveraging data science and ML to build products & services which help solve real-world business problems. Motivated to learn, grow and excel in Artificial Intelligence Industry. 
+									Presently working as Data Scientist at <a href = "https://www.tcs.com/"><b>Tata Consultancy Services</b></a> in a small agile team for building machine learning models for Westpac Bank and customized core banking software suite.<br><br>
+
+									Adept at organizing and executing complex projects that deliver exceptional results across an array of endeavors in both the profit and non-profit sectors. Presently seeking for Data Scientist and Machine Learning role with long-term goal of being meaningful contributor to an organization. 
+									<br><br>
+									Open source Outreach and working team member at <a href = "https://omdena.com/" ><b>Omdena</b></a>, a collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems. </p>
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Experience</h2>
+								<br>
+								<h3 class="major">Tata Consultancy Services</h3>
+								<span class="image main"><img src="images/Tata Consultancy Services.jpg" alt="" /></span>
+								<p>Working with exceptional Westpac team to build cutting-edge ML/AI solutions of banking suits.
+									Responsible for building Machine Learning model for payments systems that identifies the customers with abusive comments in payments systems.
+									<br><br>
+									• Redesigned Westpac’s data masking app by using NLP which masks the confidential user information from the production logs.
+									<br><br>
+									• Implemented FraudPay model to detect the fraudulent payments search used by Westpac’s WDP environment.
+									<br><br>
+									• Working with exceptional Westpac team to build cutting-edge ML/AI solutions of banking suits. 
+									<br><br>
+									• Responsible for building Machine Learning model for payments systems that identifies the customers with abusive comments in payments systems. 
+									<br><br>
+									• Redesigned Westpac’s data masking app by using NLP which masks the confidential user information from the production logs. 
+									<br><br>
+									• Implemented FraudPay model to detect the fraudulent payments search used by Westpac’s WDP environment.
+								</p>
+
+								<br>
+								<br>
+
+								<h3 class="major">Omdena</h3>
+								<span class="image main"><img src="images/Omdena.jpg" alt="" /></span>
+								<p>Open source Outreach and working team member at Omdena, a collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems. 
+									<br><br>
+									<h4 class="major">Project 1: Document Redaction</h4>
+									• Working as an open source contributor with 45 collaborators across the world to build a NLP system for redacting the
+									confidential texts from the documents.
+
+									<br><br>
+									•  Leading the data analysis team, and deriving data insights from labeled data to drive product and optimizing the algorithms for
+									redacting the confidential data in the file.									 
+
+									<br><br>
+									• Leading the data analysis team, and deriving data insights from labeled data to drive product and optimizing the algorithms for
+									redacting the confidential data in the file.
+									<br><br>
+									<h4 class="major">Project 2: Sustainability Benchmarking System</h4>
+									•  Machine Learning Engineer Lead at Omdena, building a Global Company Sustainability Benchmarking System for SustainLab based in Sweden.									 
+									<br><br>
+									• The result of this project, which is related to text mining and text analysis of annual sustainability reports that companies publish globally, will be used to benchmark companies in their industry and globally.
+									<br><br>
+
+									• The sustainability benchmarking system combined with their software product will be very valuable for companies, and the comparison against competitors is a compelling incentive for companies to set more ambitious goals and take bolder steps towards those goals.
+									
+								</p>
+
+
+							</article>
+
+						<!-- About -->
+							<article id="about">
+								<h2 class="major">Projects</h2>
+								<span class="image main"><img src="images/Projects.jpg" alt="" /></span>
+								<p>I have working on various real world projects ranging from classic Machine Learning to Deep Learning including applications for Natural Language Processing and Computer Vision.</p>
+								<br><br>
+
+								<h4 class="major">Project 1: Document Redaction</h4>
+								<span class="image main"><img src="images/Document Redaction.jpg" alt="" /></span>
+								<p>This project revolves around the ability to recognize sensitive words within documents. To do this I am making use of <b>Natural Language Processing</b>(NLP) where the focus is on <b>Named Entity Recognition</b> which searches a body of text and classifies named entities into predefined categories.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Document-Redaction" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 2: Intent Matcher Application</h4>
+								<span class="image main"><img src="images/Intent Matching.jpg" alt="" /></span>
+								<p>Developed a hybrid model to predict intent of two questions based on generating a context-rich text feature vector by combining single words and word sequences to form a multi-dimensional word embedding structure using <b>Word2Vec</b> model.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Intent-Matcher-Application" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 3: Auto Text Generation</h4>
+								<span class="image main"><img src="images/Auto Text Generation.png" alt="" /></span>
+								<p>Developed an intelligent application that predicts the next n words given a sequence of words based on a <b>Markov's N-Grams</b> assumption.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Game-Of-Thrones-Text-Generation-" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://share.streamlit.io/priyeshdave/game-of-thrones-text-generation-/main/app.py" class="fa fa-link"></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 4: Movies Recommender System</h4>
+								<span class="image main"><img src="images/Movies Recommendation System.jpg" alt="" /></span>
+								<p>Developed an intelligent application that recommends user movies related to the movie selected by the them based on <b>Cosine Similarity</b> among the movies.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Movie-Recommender-System" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://share.streamlit.io/priyeshdave/movie-recommender-system/main/app.py" class="fa fa-link"></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 5: Road Traffic Severity Predictor</h4>
+								<span class="image main"><img src="images/RTA.png" alt="" /></span>
+								<p>RTA severity predictor is an application which predicts the severity of road traffic accident, so as to pave the way for improving the safety level of road traffic.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Accident-Severity-Predictor" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://accident-severity-predictor.herokuapp.com/" class="fa fa-link"></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 6: Patient Survival Predictor</h4>
+								<span class="image main"><img src="images/PSP.png" alt="" /></span>
+								<p>Developed and verified a Deep Learning model for predicting the risk of death in ICU patients. Because the traditional regression model predicts mortality rate based on a simplified relationship between predictor variables and prognosis, it is difficult to improve the predictive ability of that model. Therefore, based on the strong nonlinear fitting ability and more precise algorithms of deep learning, I constructed a neural-network model for predicting the survival rate of patients in the ICU's and explored the influencing patient factors.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Patient-Survival-Prediction" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major">Project 7: Cyberbully Detector</h4>
+								<span class="image main"><img src="images/Cyberbully Detector.png" alt="" /></span>
+								<p>Developed and verified a <b>Deep Learning (BidirectionalLSTM)</b> model that classifies whether a given comment is toxic or not.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Cyberbully-Detection" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+								<h4 class="major"> Applied ML </h4>
+								<span class="image main"><img src="images/Applied ML.png" alt="" /></span>
+								<p>Implemented Machine Learning algorithms from scratch using python.</p>
+								<ul class="icons">
+									<li><a href="https://github.com/PriyeshDave/Applied-ML" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<br><br>
+
+
+
+							</article>
+
+							<article id="certifications">
+								<h2 class="major">Certifications</h2>
+								<br>
+								<h3 class="major">AWS INNOVATE AI & ML EDITION</h3>
+								<span class="image main"><img src="images/AWS Innovate AL & ML Edition.jpeg" alt="" /></span>
+								<br>
+								<br>
+
+								<h3 class="major">AWS Cloud Practitioner Essentials</h3>
+								<span class="image main"><img src="images/AWS Cloud Practitioner Essentials.png" alt="" /></span>
+								<br>
+								<br>
+
+								<br>
+								<h3 class="major">Accenture AI Digital</h3>
+								<span class="image main"><img src="images/Accenture.png" alt="" /></span>
+								<br>
+								<br>
+
+								<br>
+								<h3 class="major">Machine Learning Engineer</h3>
+								<span class="image main"><img src="images/Omdena - Redactable.png" alt="" /></span>
+								<br>
+								<br>
+
+								
+								<br>
+								<h3 class="major">The Machine Learning Company</h3>
+								<span class="image main"><img src="images/MGP.png" alt="" /></span>
+								<br>
+								<br>
+
+
+								<br>
+								<h3 class="major">Ultimate AWS Cloud Practitioner</h3>
+								<span class="image main"><img src="images/AWS Cloud Practitioner.png" alt="" /></span>
+								<br>
+								<br>
+
+								
+								<br>
+								<h3 class="major">UMICH - Intermediate PostgreSQL</h3>
+								<span class="image main"><img src="images/Intermediate PostgreSQL.png" alt="" /></span>
+								<br>
+								<br>
+
+								
+								<br>
+								<h3 class="major">UMICH - Basic PostgreSQL</h3>
+								<span class="image main"><img src="images/Basic PostgreSQL.png" alt="" /></span>
+								<br>
+								<br>
+
+			
+
+
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="https://www.linkedin.com/in/priyeshdave21/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/PriyeshDave/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://twitter.com/PriyeshDave6" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+								</ul>
+							</article>
+
+							<!-- Accomplishments -->
+							<article id="accomplishments">
+								<h2 class="major">Accomplishments</h2>
+								<span class="image main"><img src="images/Achievements.jpg" alt="" /></span>
+									• Recognized and appreciated for delivering efficient solutions and awarded by <b>Performing Award</b> by <a class = "major" href ="https://www.westpac.com.au/"><b>Westpac</b></a>.
+								
+									<br><br>
+									•  Selected in top 300 among 15,000 applicants for Bertelsmann Technology UDACITY MACHINE LEARNING SCHOLARSHIP across
+									world, and learnt Machine Learning.									 
+							</article>
+
+							<!-- Resume -->
+							<article id="resume">
+								<ul class="actions">
+									<li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>
+								</ul>								 
+							</article>
+
+							
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+										<i class="fa fa-link" aria-hidden="true"></i>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="https://drive.google.com/file/d/1u9w_qO5BtJC9UgHx9GmhhdQGnmJy3R9a/view?usp=sharing" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
