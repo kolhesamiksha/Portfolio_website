@@ -78,54 +78,216 @@ input, select, textarea {
 	.flex-container {
 		display: flex;
 		align-items: center;
-		justify-content: space-between;
+		justify-content: center;
 		width: 200%; /* Increases the content width */
 		max-width: 1200px; /* Prevents excessive stretching */
 		margin: 0 auto; /* Centers within borders */
-		gap: 5rem;
-		position: relative;
+		gap: 1rem;
+		overflow: hidden;
 	}
 
 	/* Expand content width */
 	.text-content {
-		flex: 10;
-		max-width: 1000px; /* Adjusts text width */
-		text-align: left;
-		margin-left: -2rem;
+		flex: 1;
+		max-width: 90%; /* Adjusts text width */
+		text-align: center;
+		margin: 0 auto;
+		margin-left: 1rem;
 	}
 
 	/* Ensure the bordered section spans full width */
 	#header .content {
-		width: 70vw; /* Expands to full screen width */
+		width: 80vw; /* Expands to full screen width */
 		max-width: 100%; /* Ensures it never shrinks */
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between; /* Aligns text & image properly */
 		align-items: center; /* Keeps items aligned */
 		background: rgba(255, 255, 255, 0.1); /* Optional: Light transparent effect */
-		padding: 0rem 0rem; /* Increase padding for a balanced look */
+		padding: 2rem 4rem; /* Increase padding for a balanced look */
 		border-radius: 50px; /* Increase for more rounded corners */
 		border: 3px solid rgba(255, 255, 255, 0.5); /* Thicker & softer border */
 		backdrop-filter: blur(2px); /* Optional: Frosted glass effect */
 		box-sizing: border-box; /* Ensures padding doesn't shrink content */
 		position: relative;
+		overflow: hidden;
 	}
 
 	/* Profile Image Adjustments */
 	.profile-container {
-		flex: 0 0 400px; /* Slightly bigger image */
+		flex: 0 0 200px; /* Slightly bigger image */
 		position: relative; /* Needed for absolute border placement */
     	display: inline-block;
 	}
 
 	.profile-image {
-		width: 420px;
-		height: 420px;
+		width: 300px;
+		height: 300px;
 		border-radius: 100%;
 		object-fit: cover;
 		border: 15px solid #eca367; /* Inner beige-orange border */
 		box-shadow: 0 0 0 15px #1C1C1C; /* Outer dark border effect */
 	}
 
+	/* Responsive Media Queries */
+	@media screen and (max-width: 1024px) {
+		.flex-container {
+			flex-direction: column; /* Stack elements on smaller screens */
+			align-items: center;
+			justify-content: center;
+			align-items: flex-start;
+			gap: 1rem;
+		}
+
+		/*
+		.text-content {
+			text-align: center;
+			max-width: 100%;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}*/
+		.text-content {
+			text-align: center; /* Ensure text is centered */
+			max-width: 50%; /* Prevents text from getting cut */
+			padding: 2rem;
+			margin: 0 50px; /* Center the text properly */
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		#header .content {
+			flex-direction: column;
+			text-align: center;
+			align-items: center; /* Center everything inside */
+        	justify-content: center;
+			padding: 2rem;
+			width: 95vw; /* Make sure content fits within the screen */
+        	overflow: hidden;
+		}
+
+		.profile-container {
+			flex: 0 0 200px;
+			display: flex;
+			justify-content: center; /* Center image */
+			align-items: center;
+			width: 40%;
+			margin: 0 100px;
+		}
+
+		.profile-image {
+			width: 190px;
+			height: 190px;
+			border: 8px solid #eca367;
+			box-shadow: 0 0 0 8px #1C1C1C;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		html, body {
+			min-width: 500px;
+		}
+
+		.flex-container {
+			flex-direction: column; /* Stack elements on smaller screens */
+			align-items: center;
+			justify-content: center;
+			align-items: flex-start;
+			gap: 1rem;
+		}
+
+		#header .content {
+			flex-direction: column;
+			text-align: center;
+			align-items: center; /* Center everything inside */
+        	justify-content: center;
+			padding: 1rem;
+			width: 95vw; /* Make sure content fits within the screen */
+        	overflow: hidden;
+		}
+
+		.text-content {
+			text-align: center; /* Ensure text is centered */
+			max-width: 50%; /* Prevents text from getting cut */
+			padding: 1rem;
+			margin: 0 30px; /* Center the text properly */
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			overflow: hidden;
+		}
+
+		.profile-container {
+			flex: 0 0 100px;
+			display: flex;
+			justify-content: center; /* Center image */
+			align-items: center;
+			width: 30%;
+			margin: 0 100px;
+		}
+
+		.profile-image {
+			width: 190px;
+			height: 190px;
+			border: 8px solid #eca367;
+			box-shadow: 0 0 0 8px #1C1C1C;
+		}
+	}
+
+	@media screen and (max-width: 480px) {
+		html, body {
+			min-width: 400px;
+		}
+
+		.flex-container {
+			flex-direction: column; /* Stack elements on smaller screens */
+			align-items: center;
+			justify-content: center;
+			align-items: flex-start;
+			gap: 1rem;
+		}
+
+		#header .content {
+			flex-direction: column;
+			text-align: center;
+			align-items: center; /* Center everything inside */
+        	justify-content: center;
+			padding: 0.5rem;
+			width: 95vw; /* Make sure content fits within the screen */
+        	overflow: hidden;
+		}
+
+		.text-content {
+			text-align: center; /* Ensure text is centered */
+			max-width: 40%; /* Prevents text from getting cut */
+			padding: 0.5rem;
+			margin: 0 30px; /* Center the text properly */
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			overflow: hidden;
+		}
+
+		.profile-container {
+			flex: 0 0 50px;
+			display: flex;
+			justify-content: center; /* Center image */
+			align-items: center;
+			width: 20%;
+			margin: 0 90px;
+		}
+
+		.profile-image {
+			width: 120px;
+			height: 120px;
+			border: 6px solid #eca367;
+			box-shadow: 0 0 0 5px #1C1C1C;
+		}
+	}
 	@-ms-viewport {
 		width: 1000%;
 	}
@@ -140,7 +302,7 @@ input, select, textarea {
 	}
 	*/
 	
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 480px) { /*480px, */
 
 		html, body {
 			min-width: 320px;
@@ -177,10 +339,10 @@ input, select, textarea {
 		font-size: 16pt;
 	}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 1680px) { /*1680*/
 
 			html {
-				font-size: 12pt;
+				font-size: 10pt;
 			}
 
 		}
