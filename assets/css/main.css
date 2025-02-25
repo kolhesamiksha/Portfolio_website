@@ -74,10 +74,72 @@ input, select, textarea {
 
 /* Basic */
 
-	@-ms-viewport {
-		width: device-width;
+	/* Ensure content & image are aligned and span full width */
+	.flex-container {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 200%; /* Increases the content width */
+		max-width: 1200px; /* Prevents excessive stretching */
+		margin: 0 auto; /* Centers within borders */
+		gap: 5rem;
+		position: relative;
 	}
 
+	/* Expand content width */
+	.text-content {
+		flex: 10;
+		max-width: 1000px; /* Adjusts text width */
+		text-align: left;
+		margin-left: -2rem;
+	}
+
+	/* Ensure the bordered section spans full width */
+	#header .content {
+		width: 70vw; /* Expands to full screen width */
+		max-width: 100%; /* Ensures it never shrinks */
+		display: flex;
+		justify-content: space-between; /* Aligns text & image properly */
+		align-items: center; /* Keeps items aligned */
+		background: rgba(255, 255, 255, 0.1); /* Optional: Light transparent effect */
+		padding: 0rem 0rem; /* Increase padding for a balanced look */
+		border-radius: 50px; /* Increase for more rounded corners */
+		border: 3px solid rgba(255, 255, 255, 0.5); /* Thicker & softer border */
+		backdrop-filter: blur(2px); /* Optional: Frosted glass effect */
+		box-sizing: border-box; /* Ensures padding doesn't shrink content */
+		position: relative;
+	}
+
+	/* Profile Image Adjustments */
+	.profile-container {
+		flex: 0 0 400px; /* Slightly bigger image */
+		position: relative; /* Needed for absolute border placement */
+    	display: inline-block;
+	}
+
+	.profile-image {
+		width: 420px;
+		height: 420px;
+		border-radius: 100%;
+		object-fit: cover;
+		border: 15px solid #eca367; /* Inner beige-orange border */
+		box-shadow: 0 0 0 15px #1C1C1C; /* Outer dark border effect */
+	}
+
+	@-ms-viewport {
+		width: 1000%;
+	}
+
+	/*
+	@media screen and (min-width: 800px) { 
+		body {
+			transform: scale(0.5); 
+			transform-origin: top left; 
+			width: 200%; 
+		}
+	}
+	*/
+	
 	@media screen and (max-width: 480px) {
 
 		html, body {
@@ -1158,7 +1220,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/AI3.webp");
+			background-image: url("../../images/background1.jpeg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
