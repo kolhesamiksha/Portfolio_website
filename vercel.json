@@ -1,7 +1,3 @@
 {
-  "build": {
-    "env": {
-      "VERCEL_NODE_VERSION": "24"
-    }
-  }
+  "outputDirectory": "/"
 }
